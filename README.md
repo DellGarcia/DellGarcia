@@ -2,7 +2,7 @@
 
 # 💬 A little about myself
 
-Hi my name is Lucas Del Puerto, I immersed in the world of technology, fascinated by the infinite possibilities and the incredible community of people in the middle of this explosion of technology. I'm curious to know how things work and I love solve problems with programming and the technology, It's incridible the feeling when are we going to solve the parts of a bigger problem.
+Hi my name is Lucas Del Puerto, I immersed in the world of technology, fascinated by the infinite possibilities and the fantastic community of people in the middle of this explosion of technology. I'm curious to know how things work and I love solve problems with programming and the technology, It's incredible the feeling when you break a big problem  in a small ones and starts to solve it little by little.
 
 <p align="center">
   <a href="https://github.com/dellgarcia">
@@ -18,6 +18,5 @@ Hi my name is Lucas Del Puerto, I immersed in the world of technology, fascinate
   <img width="40" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
   <img width="40" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
   <img width="40" src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
-  
 </p>
   
