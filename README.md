@@ -29,13 +29,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellgarcia&theme=onedark&row=1&no-bg=true&no-frame=true" alt="dellgarcia" /></a> </p>
 
 <p align="center">
-  <img height='200' src="https://github-readme-stats.vercel.app/api?username=dellgarcia&show_icons=true&locale=en&theme=dracula" alt="dellgarcia" />
+  <img height='150' src="https://github-readme-stats.vercel.app/api?username=dellgarcia&show_icons=true&locale=en&theme=dracula" alt="dellgarcia" />
   &nbsp
-  <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs?username=dellgarcia&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dellgarcia" />
-</p>
-
-<p align="center">
-  
+  <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs?username=dellgarcia&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dellgarcia" />
 </p>
 
 
