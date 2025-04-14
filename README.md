@@ -4,19 +4,18 @@
 
 <h2 align="left">Software Developer | Data Science Student 🖥️ </h3>
 
-- 🔭 I’m currently working on [Choco Monitor](https://github.com/choco-tech/choco-monitor)
-
-- 🌱 I’m currently learning **Flutter, AWS, Hadoop**
+- 🌱 I’m currently learning **Power BI, AWS, Hadoop**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DellGarcia?tab=repositories](https://github.com/DellGarcia?tab=repositories)
 
-- 💬 Ask me about **Java, Python, JS, SQL Databases**
+- 💬 Ask me about **Java, C#, Python, JS, SQL Databases**
 
 - 📫 How to reach me **lucas.d.puerto@outlook.com**
 
 <h2>💬 About me</h3>
-I am technology enthusiast, fascinated by the infinite possibilities and the fantastic community. I'm curious to know how things work and I love solve problems. In my free time I like to play games and watch animes.
+I am a Software Developer. I started my studies in 2018 and since then I have been delving deeper into the world of technology. I have a lot of experience in the area acquired in personal, academic and professional projects. I like to solve challenges and learn new things. I have good communication and experience in teamwork.
 
+My focus is to expand my knowledge and skills in the area of ​​data science, for this I started my studies in the Big Data for Business course where I am learning more about the importance of data and how to work with it, delving into topics such as relational and non-relational databases, artificial intelligence (AI), machine learning (ML), internet of things (IOT) and business intelligence (BI), all with a vision focused on application and impact on business.
 
 <h2 align="left">Connect with me</h3>
 <p align="left">
