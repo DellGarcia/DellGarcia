@@ -4,7 +4,7 @@
 
 <h2 align="left">Software Developer | Data Science Student 🖥️ </h3>
 
-- 🌱 I’m currently learning **Power BI, AWS, Hadoop**
+- 🌱 I’m currently learning **Linux, AWS, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DellGarcia?tab=repositories](https://github.com/DellGarcia?tab=repositories)
 
